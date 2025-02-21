@@ -6,7 +6,7 @@ console.log(sumThreeNumbers(1, 2, 3));
 // const stringConst = "Hello, World!"; 
 // const booleanConst = true; 
 // const arrayConst = [1, 2, 3, 4, 5]; 
-// const objectConst = { name: "Daniel", age: 19 }; 
+// const objectConst = { name: "Yana", age: 19 }; 
 // let numberVar = 3.14; // 
 // let stringVar = "Hello"; // 
 // let booleanVar = false; 
